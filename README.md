@@ -15,7 +15,7 @@ Cities used to rely on costly and time-consuming traditional methods - traffic s
 ## Introduction
 This report evaluates Vivacity-Lab's business model, based on the Business Model Canvas framework developed by Osterwalder and Pigneur. The Canvas consists of nine core components: customer segments, value proposition, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure. It will also discuss the company's ethical, sustainable, secure, and community-oriented approaches.
 ## Value Proposition
-
+As part of the value propositions, newness, convenience, and accessibility, Vivacity's approach is cost-efficient and integrates with existing infrastructure, allowing cities to access the latest technology and data insights without replacing infrastructure. Easy access to real-time data is provided via a web-based dashboard, API downloads and third-party integrations. Vivacity also provides accessible solutions that improve road safety and ensure all citizens have equal access to road use, public transport and active travel benefits.
 ## Customer Segments
 Dedicated personal assistent 
 
