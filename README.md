@@ -9,7 +9,7 @@ Smart Signal Control: AI for Detection
 
 all of them are based on the same sensor, but the software and the solution is different
 ## Introduction
-
+This report evaluates Vivacity-Lab's business model, based on the Business Model Canvas framework developed by Osterwalder and Pigneur. The Canvas consists of nine core components: customer segments, value proposition, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure. It will also discuss the company's ethical, sustainable, secure, and community-oriented approaches.
 ## Value Proposition
 
 ## Customer Segments
