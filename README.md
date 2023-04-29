@@ -25,7 +25,7 @@ Vivacity's core customer relationship strategy offers its clients a dedicated pe
 Vivacity's revenue streams  are generated through the sale and rental of its hardware devices. These assets are used by local authorities and transportation agencies to gather real-time data insights on road users and traffic patterns, which are then used to inform road safety schemes and optimize traffic flow. Vivacity might  also generate revenue through ongoing maintenance and support services for its products. Additionally, they may offer data analytics services and software solutions to their clients, which can provide additional revenue streams.
 
 ## Key Resources
-
+Based on the categories of Key Resources, Vivacity heavily relies on human resources, both physical and intellectual. The company's machine learning and computer vision technology require specialized skills and expertise, making human resources a critical component of its business model. In addition, Vivacity's physical resources, such as its sensors and hardware, are also important assets. However, the company's intellectual resources, including its proprietary algorithms and software, are equally crucial. Overall, Vivacity's essential resources include physical and intellectual assets, with human resources playing a critical role. (## not finished yet )
 ## Key Activities
 
 ## Key Partnerships
