@@ -38,3 +38,60 @@ Value-driven and fixed costs
 ## Conclusion
 
 ## References
+
+
+## Business Model Canvas
+
+### Key Partners
+
+- Partners A
+- Partners B
+- Partners C
+
+### Key Activities
+
+- Activity A
+- Activity B
+- Activity C
+
+### Key Resources
+
+- Resource A
+- Resource B
+- Resource C
+
+### Value Proposition
+
+- Value Proposition A
+- Value Proposition B
+- Value Proposition C
+
+### Customer Segments
+
+- Customer Segment A
+- Customer Segment B
+- Customer Segment C
+
+### Customer Relationships
+
+- Customer Relationship A
+- Customer Relationship B
+- Customer Relationship C
+
+### Channels
+
+- Channel A
+- Channel B
+- Channel C
+
+### Cost Structure
+
+- Cost Structure A
+- Cost Structure B
+- Cost Structure C
+
+### Revenue Streams
+
+- Revenue Stream A
+- Revenue Stream B
+- Revenue Stream C
