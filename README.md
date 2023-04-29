@@ -22,6 +22,8 @@ Vivacity's core customer relationship strategy offers its clients a dedicated pe
 
 ## Revenue Streams
 
+Vivacity's revenue streams  are generated through the sale and rental of its hardware devices. These assets are used by local authorities and transportation agencies to gather real-time data insights on road users and traffic patterns, which are then used to inform road safety schemes and optimize traffic flow. Vivacity might  also generate revenue through ongoing maintenance and support services for its products. Additionally, they may offer data analytics services and software solutions to their clients, which can provide additional revenue streams.
+
 ## Key Resources
 
 ## Key Activities
