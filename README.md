@@ -17,8 +17,8 @@ This report evaluates Vivacity-Lab's business model, based on the Business Model
 ## Value Proposition
 As part of the value propositions, newness, convenience, and accessibility, Vivacity's approach is cost-efficient and integrates with existing infrastructure, allowing cities to access the latest technology and data insights without replacing infrastructure. Easy access to real-time data is provided via a web-based dashboard, API downloads and third-party integrations. Vivacity also provides accessible solutions that improve road safety and ensure all citizens have equal access to road use, public transport and active travel benefits.
 ## Customer Segments
-Dedicated personal assistent 
 
+Vivacity's core customer relationship strategy offers its clients a dedicated personal assistant. This personalized approach involves assigning a customer representative to the client, allowing for a deep and intimate relationship to develop over time. The personal assistant is an approach that is more suitable to the type of vivacity especially because they have products with new abilities and require unique skills.  In addition, it is possible that Vivacity also provides automated services to its customers, although this information is  not  publicly available.
 
 ## Revenue Streams
 
