@@ -29,7 +29,9 @@ Based on the categories of Key Resources, Vivacity heavily relies on human resou
 ## Key Activities
 
 ## Key Partnerships
+Vivacity collaborates with local councils and transportation authorities to provide intelligent transport systems. The company also partners with technology companies to support  and further develop its products and services. In addition, Vivacity might partner with companies that provide local signal controllers, such as Yunex, Swarco, and Telent, to integrate its sensors and data insights into existing traffic management systems. Research and academic institutions may also be potential partners for Vivacity, as they can provide access to the latest research and technology developments. 
 
+Here it   will be a problem for the local signal controllers cause they are competitors (have to check or mention that in the reflection! )
 ## Cost Structure
 Value-driven and fixed costs 
 
