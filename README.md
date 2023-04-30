@@ -33,12 +33,13 @@ Vivacity invests in product development for their products, including software/h
 Vivacity collaborates with local councils and transportation authorities to provide intelligent transport systems. The company also partners with technology companies to support  and further develop its products and services. In addition, Vivacity might partner with companies that provide local signal controllers, such as Yunex, Swarco, and Telent, to integrate its sensors and data insights into existing traffic management systems. Research and academic institutions may also be potential partners for Vivacity, as they can provide access to the latest research and technology developments. 
 
 Here it   will be a problem for the local signal controllers cause they are competitors (have to check or mention that in the reflection! )
+
 ## Cost Structure
 What is the most important cost inherent in our business model?
 Which key resources are the most expensive?
 Which key activities are the most expensive? 
 
-The value-driven approach of Vivacity's business model is reflected in its investment in research and development to improve its products and services. This includes hiring engineers and data scientists, developing algorithms, and refining the product to meet the needs of their target customer segments. Additionally, they allocate resources to marketing their products to transportation authorities and technology partners through activities such as campaign development, industry events and conferences, and relationship building. Vivacity recognizes the importance of ongoing maintenance and support for its products to ensure customer satisfaction, covering performance monitoring, technical resolution, and customer support/training. To maintain and expand their technology, they have overhead costs for storage, cloud computing, and other tech platforms. As a people-oriented business, human resources play a major role in its cost structure, offering competitive compensation packages to attract and retain employees. These overhead costs, including office rent, utilities, insurance, and legal fees, are essential for everyday business and profitability.
+The value-driven approach of Vivacity's business model is reflected in its investment in research and development to improve its products and services. This includes hiring engineers and data scientists, developing algorithms, and refining the product to meet the needs of their target customer segments. Additionally, they allocate resources to marketing their products to transportation authorities and technology partners through activities such as campaign development, industry events and conferences, and relationship building. Vivacity recognizes the importance of ongoing maintenance and support for its products to ensure customer satisfaction, covering performance monitoring, technical resolution, and customer support/training. To maintain and expand their technology, they have overhead costs for storage, cloud computing, and other tech platforms. As a people-oriented business, human resources play a major role in its cost structure, offering competitive compensation packages to attract and retain employees. It can be seen that on the career page of Vivacity's website, they provide detailed information about their compensation packages for employees. This reflects the importance of human resources in their business model and their commitment to attracting and retaining top talent. These overhead costs, including office rent, utilities, insurance, and legal fees, are essential for everyday business and profitability (Vivacity, n.d.).
 
 
 |                    |                    Value Proposition                     |                    |
@@ -59,4 +60,5 @@ The value-driven approach of Vivacity's business model is reflected in its inves
 ## Conclusion
 
 ## References
-Crunchbase. (n.d.). Vivacity Labs Technology & Product. Retrieved April 29, 2023, from https://www.crunchbase.com/organization/vivacity-labs/technology
+Vivacity. (n.d.). Join us. Retrieved April 26, 2023, from https://vivacitylabs.com/about-us/join-us/
+Crunchbase. (n.d.). Vivacity Labs Technology & Product. Retrieved April 26, 2023, from https://www.crunchbase.com/organization/vivacity-labs/technology
