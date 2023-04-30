@@ -59,6 +59,25 @@ Value-driven and fixed costs
 |          |               |                |
 |          |               |                |
 |          |               |                |
+
+
++----------------------------------------------------+
+  |                       Value Proposition             |
+  +----------------+-----------------------------------+
+  | Customer       |                                   |
+  | Segments       |                                   |
+  +----------------+-----------+-----------+-----------+
+  | Customer       | Channels  | Key       | Key       |
+  | Relationships  |           | Resources | Partners  |
+  +----------------+-----------+-----------+-----------+
+  |                |           |           |           |
+  | Revenue        | Channels  | Key       | Key       |
+  | Streams        |           | Activities| Partners  |
+  |                |           |           |           |
+  +----------------+-----------+-----------+-----------+
+  |                |                                   |
+  | Cost Structure |                                   |
+  +----------------+-----------------------------------+
 ## Sustainability, Ethics, Security, and Community
 
 ## Conclusion
