@@ -35,6 +35,11 @@ Here it   will be a problem for the local signal controllers cause they are comp
 ## Cost Structure
 Value-driven and fixed costs 
 
+| Column 1 Header | Column 2 Header | Column 3 Header |
+|-----------------|-----------------|-----------------|
+| Row 1, Column 1 | Row 1, Column 2 | Row 1, Column 3 |
+| Row 2, Column 1 | Row 2, Column 2 | Row 2, Column 3 |
+
 ## Sustainability, Ethics, Security, and Community
 
 ## Conclusion
