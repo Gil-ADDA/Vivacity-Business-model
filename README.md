@@ -30,7 +30,7 @@ Based on the categories of Key Resources, Vivacity heavily relies on human resou
 Vivacity invests in product development for their products, including software/hardware engineering, data analysis and algorithm development. To market the product, they create campaigns, attend industry events/conferences, and build relationships with potential customers/partners. Additionally, they provide ongoing maintenance/support, monitoring performance, resolving technical issues, and training/supporting customers.
 
 ## Key Partnerships
-Vivacity collaborates with local councils and transportation authorities to provide intelligent transport systems. The company also partners with technology companies to support  and further develop its products and services. In addition, Vivacity might partner with companies that provide local signal controllers, such as Yunex, Swarco, and Telent, to integrate its sensors and data insights into existing traffic management systems. Research and academic institutions may also be potential partners for Vivacity, as they can provide access to the latest research and technology developments. 
+Vivacity collaborates with local councils and transportation authorities to provide intelligent transport systems. The company also partners with technology companies to support  and further develop its products and services. In addition, Vivacity might partner with companies that provide local signal controllers, such as Yunex, Swarco, and Telent, to integrate its sensors and data insights into existing traffic management systems. Research and academic institutions may also be potential partners for Vivacity, as they can provide access to the latest research and technology developments (Mehmet, 2020). 
 
 Here it   will be a problem for the local signal controllers cause they are competitors (have to check or mention that in the reflection! )
 
@@ -57,8 +57,13 @@ The value-driven approach of Vivacity's business model is reflected in its inves
 |--------------------|------------------------|------------------------|-----------------------------|
 ## Sustainability, Ethics, Security, and Community
 
+
+in therm of security and community tht is one of the refrence how the vivacity sensors are wroking (Lee, 2021)
 ## Conclusion
 
 ## References
 Vivacity. (n.d.). Join us. Retrieved April 26, 2023, from https://vivacitylabs.com/about-us/join-us/
 Crunchbase. (n.d.). Vivacity Labs Technology & Product. Retrieved April 26, 2023, from https://www.crunchbase.com/organization/vivacity-labs/technology
+Lee, G. (2021). How can the Artificial Intelligence of Things create public value? Lessons learned from use cases. Digital Government: Research and Practice, 4(1), 5, 1-11. https://doi.org/10.1145/3580604
+
+Mehmet, S. (2020, January 16). TfL tests AI technology to plan and operate new cycle routes in London. Intelligent Transport. Retrieved from https://www.intelligenttransport.com/transport-news/94780/tfl-tests-ai-technology-to-plan-and-operate-new-cycle-routes-in-london/
