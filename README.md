@@ -1,13 +1,7 @@
 # Vivacity-Lab:Business-model
 The Vivacity Business Model repository is a collection of detailed information and analysis of the Smart Traffic Monitor product and its business model. It covers the product's value proposition, customer segments, revenue streams, key resources, activities, partnerships, cost structure, and sustainability/ethics/security/community considerations. 
 ## Overview/Executive Summary
-vivacity-Lab  shows in their web that they are selling 3 products: 
-
-Smart Traffic Monitoring
-Smart Road Safety
-Smart Signal Control: AI for Detection
-
-all of them are based on the same sensor, but the software and the solution is different
+Vivacity Labs provides sensor-based solutions to monitor traffic, ensure safety, and control signals using AI computer vision algorithms. Their sensors produce accurate data on traffic flow, speed, turning behaviour, and more, collecting data on various modes of transportation, including cars, trucks, buses, bicycles, scooters, pedestrians and more. Their technology surpasses traditional monitoring systems with a high level of privacy and security. With three products in one hardware, Vivacity offers tailored solutions to cities and communities facing transportation challenges.
 
 ## Background 
 Cities used to rely on costly and time-consuming traditional methods - traffic studies, static monitoring and GPS tracking - to gain insights into road use and traffic patterns. However, these methods often didn't capture vulnerable road users like pedestrians and cyclists. Vivacity offers data-driven solutions to overcome these limitations. Leveraging cutting-edge tech and advanced algorithms, their products provide real-time granular insights. that can be integrated with existing infrastructure, they offer a cost-efficient solution for cities to make more informed decisions about road safety, traffic management and urban planning - ultimately improving citizens' quality of life(BBC Future, 2018)(Al-qaness et al., 2021).
@@ -29,11 +23,6 @@ Based on the categories of Key Resources, Vivacity heavily relies on human resou
 
 ## Key Activities
 Vivacity invests in product development for their products, including software/hardware engineering, data analysis and algorithm development. To market the product, they create campaigns, attend industry events/conferences, and build relationships with potential customers/partners. Additionally, they provide ongoing maintenance/support, monitoring performance, resolving technical issues, and training/supporting customers(Dawood, 2021).
-
-
-
-
-.
 
 ## Key Partnerships
 Vivacity collaborates with local councils and transportation authorities to provide intelligent transport systems. The company also partners with technology companies to support  and further develop its products and services. The company has worked with The Cross River Partnership (CRP) and  might partner with companies that provide local signal controllers, such as Yunex, Swarco, and Telent, to integrate its sensors and data insights into existing traffic management systems. Research and academic institutions may also be potential partners for Vivacity, as they can provide access to the latest research and technology developments (Al-qaness et al., 2021)(Mehmet, 2020). 
