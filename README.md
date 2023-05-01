@@ -20,17 +20,17 @@ Vivacity's core customer relationship strategy offers its clients a dedicated pe
 
 Vivacity's revenue streams  are generated through the sale and rental of its hardware devices. These assets are used by local authorities and transportation agencies to gather real-time data insights on road users and traffic patterns, which are then used to inform road safety schemes and optimize traffic flow. Vivacity might  also generate revenue through ongoing maintenance and support services for its products. Additionally, they may offer data analytics services and software solutions to their clients, which can provide additional revenue streams(Dawood, 2021) (Vivacity Labs, 2022).
 
-# Key Resources
+## Key Resources
 Based on the categories of Key Resources, Vivacity heavily relies on human resources, both physical and intellectual. The company's machine learning and computer vision technology require specialized skills and expertise, making human resources a critical component of its business model. In addition, Vivacity's physical resources, such as its sensors and hardware, are also important assets. However, the company's intellectual resources, including its proprietary algorithms and software, are equally crucial. Vivacity's intellectual property includes four registered patents and two registered trademarks. It is also important to note that according to Aberdeen, Vivacity Labs is projected to spend $32.5M on IT this year (Crunchbase, n.d.)
 
-# Key Activities
+## Key Activities
 Vivacity invests in product development for their products, including software/hardware engineering, data analysis and algorithm development. To market the product, they create campaigns, attend industry events/conferences, and build relationships with potential customers/partners. Additionally, they provide ongoing maintenance/support, monitoring performance, resolving technical issues, and training/supporting customers(Dawood, 2021).
 
-# Key Partnerships
+## Key Partnerships
 Vivacity collaborates with local councils and transportation authorities to provide intelligent transport systems. The company also partners with technology companies such as Ford Mobility to support and further develop its products and services(Unknown, 2020). The company has worked with The Cross River Partnership (CRP) and  might partner with companies that provide local signal controllers, such as Yunex, Swarco, and Telent, to integrate its sensors and data insights into existing traffic management systems. Research and academic institutions may also be potential partners for Vivacity, as they can provide access to the latest research and technology developments (Al-qaness et al., 2021)(Mehmet, 2020). 
 
 
-# Cost Structure
+## Cost Structure
 The value-driven approach of Vivacity's business model is reflected in its investment in research and development to improve its products and services. This includes hiring engineers and data scientists, developing algorithms, and refining the product to meet the needs of their target customer segments. Additionally, they allocate resources to marketing their products to transportation authorities and technology partners through activities such as campaign development, industry events and conferences, and relationship building. Vivacity recognizes the importance of ongoing maintenance and support for its products to ensure customer satisfaction, covering performance monitoring, technical resolution, and customer support/training. To maintain and expand their technology, they have overhead costs for storage, cloud computing, and other tech platforms. As a people-oriented business, human resources play a major role in its cost structure, offering competitive compensation packages to attract and retain employees. It can be seen that on the career page of Vivacity's website, they provide detailed information about their compensation packages for employees. This reflects the importance of human resources in their business model and their commitment to attracting and retaining top talent. These overhead costs, including office rent, utilities, insurance, and legal fees, are essential for everyday business and profitability (Vivacity, n.d.).
 
 ## Discussion and recommendation in perspective of Sustainability Ethics 
