@@ -8,9 +8,9 @@ Cities used to rely on costly and time-consuming traditional methods - traffic s
 
 ## Introduction
 Vivacity-Lab is a UK-based company that provides sensor-based solutions for monitoring traffic, safety, and signal control using AI computer vision algorithms. The company's innovative products offer real-time, granular insights, integration with existing infrastructure, and cost-efficient solutions for cities facing transportation challenges. Vivacity-Lab's business model is based on a value-driven approach that focuses on delivering high-quality services to its clients, while also emphasizing sustainability, ethics, security, and community-oriented approaches. This report provides a detailed analysis of Vivacity-Lab's business model using the Business Model Canvas framework developed by Osterwalder and Pigneur. It examines the company's customer segments, value proposition, channels, customer relationships, revenue streams, key resources, key activities, key partnerships, and cost structure. The report also discusses Vivacity-Lab's ethical, sustainable, secure, and community-oriented approaches and provides recommendations for enhancing the company's value proposition(Osterwalder & Pigneur, 2010).
-## Value Proposition
+# Value Proposition
 As part of the value propositions, newness, convenience, and accessibility, Vivacity's approach is cost-efficient and integrates with existing infrastructure, allowing cities to access the latest technology and data insights without replacing infrastructure. Easy access to real-time data is provided via a web-based dashboard, API downloads and third-party integrations. Vivacity also provides accessible solutions that improve road safety and ensure all citizens have equal access to road use, public transport and active travel benefits (Vivacity Labs, 2022).
-## Customer Segments
+# Customer Segments
 
 Vivacity's core customer relationship strategy offers its clients a dedicated personal assistant. This personalized approach involves assigning a customer representative to the client, allowing for a deep and intimate relationship to develop over time. The personal assistant is an approach that is more suitable to the type of vivacity especially because they have products with new abilities and require unique skills.  In addition, it is possible that Vivacity also provides automated services to its customers, although this information is  not  publicly available.
 
@@ -18,17 +18,17 @@ Vivacity's core customer relationship strategy offers its clients a dedicated pe
 
 Vivacity's revenue streams  are generated through the sale and rental of its hardware devices. These assets are used by local authorities and transportation agencies to gather real-time data insights on road users and traffic patterns, which are then used to inform road safety schemes and optimize traffic flow. Vivacity might  also generate revenue through ongoing maintenance and support services for its products. Additionally, they may offer data analytics services and software solutions to their clients, which can provide additional revenue streams(Dawood, 2021) (Vivacity Labs, 2022).
 
-## Key Resources
+# Key Resources
 Based on the categories of Key Resources, Vivacity heavily relies on human resources, both physical and intellectual. The company's machine learning and computer vision technology require specialized skills and expertise, making human resources a critical component of its business model. In addition, Vivacity's physical resources, such as its sensors and hardware, are also important assets. However, the company's intellectual resources, including its proprietary algorithms and software, are equally crucial. Vivacity's intellectual property includes four registered patents and two registered trademarks. It is also important to note that according to Aberdeen, Vivacity Labs is projected to spend $32.5M on IT this year (Crunchbase, n.d.)
 
-## Key Activities
+# Key Activities
 Vivacity invests in product development for their products, including software/hardware engineering, data analysis and algorithm development. To market the product, they create campaigns, attend industry events/conferences, and build relationships with potential customers/partners. Additionally, they provide ongoing maintenance/support, monitoring performance, resolving technical issues, and training/supporting customers(Dawood, 2021).
 
-## Key Partnerships
+# Key Partnerships
 Vivacity collaborates with local councils and transportation authorities to provide intelligent transport systems. The company also partners with technology companies such as Ford Mobility to support and further develop its products and services(Unknown, 2020). The company has worked with The Cross River Partnership (CRP) and  might partner with companies that provide local signal controllers, such as Yunex, Swarco, and Telent, to integrate its sensors and data insights into existing traffic management systems. Research and academic institutions may also be potential partners for Vivacity, as they can provide access to the latest research and technology developments (Al-qaness et al., 2021)(Mehmet, 2020). 
 
 
-## Cost Structure
+# Cost Structure
 The value-driven approach of Vivacity's business model is reflected in its investment in research and development to improve its products and services. This includes hiring engineers and data scientists, developing algorithms, and refining the product to meet the needs of their target customer segments. Additionally, they allocate resources to marketing their products to transportation authorities and technology partners through activities such as campaign development, industry events and conferences, and relationship building. Vivacity recognizes the importance of ongoing maintenance and support for its products to ensure customer satisfaction, covering performance monitoring, technical resolution, and customer support/training. To maintain and expand their technology, they have overhead costs for storage, cloud computing, and other tech platforms. As a people-oriented business, human resources play a major role in its cost structure, offering competitive compensation packages to attract and retain employees. It can be seen that on the career page of Vivacity's website, they provide detailed information about their compensation packages for employees. This reflects the importance of human resources in their business model and their commitment to attracting and retaining top talent. These overhead costs, including office rent, utilities, insurance, and legal fees, are essential for everyday business and profitability (Vivacity, n.d.).
 
 ## Discussion and recommendation in perspective of Sustainability Ethics 
@@ -52,7 +52,9 @@ Vivacity-Lab provides sensor-based solutions for monitoring traffic, safety, and
 
 ## References
 Vivacity. (n.d.). Join us. Retrieved April 26, 2023, from https://vivacitylabs.com/about-us/join-us/
+
 Crunchbase. (n.d.). Vivacity Labs Technology & Product. Retrieved April 26, 2023, from https://www.crunchbase.com/organization/vivacity-labs/technology
+
 Lee, G. (2021). How can the Artificial Intelligence of Things create public value? Lessons learned from use cases. Digital Government: Research and Practice, 4(1), 5, 1-11. https://doi.org/10.1145/3580604
 
 Mehmet, S. (2020, January 16). TfL tests AI technology to plan and operate new cycle routes in London. Intelligent Transport. Retrieved from https://www.intelligenttransport.com/transport-news/94780/tfl-tests-ai-technology-to-plan-and-operate-new-cycle-routes-in-london/
