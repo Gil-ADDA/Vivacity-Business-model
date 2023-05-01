@@ -42,13 +42,13 @@ By adopting a transparent and collaborative approach to data collection and anal
 Vivacity-Lab provides sensor-based solutions for monitoring traffic, safety, and signal control using AI computer vision algorithms. In conclusion, the company has developed a promising business model offering innovative, cost-efficient, data-driven solutions for cities facing transportation challenges. Their key resources, including its specialized human capital and proprietary algorithms, enable them to provide high-quality services to their clients. The company's value proposition, which focuses on cost efficiency, real-time data insights, and integration with existing infrastructure, has attracted a diverse range of customers. Moreover, Vivacity's emphasis on privacy, data protection, ethics, security, and community-oriented approaches reflects a responsible and sustainable business model. Its key activities, partnerships, and revenue streams demonstrate a focus on continuous improvement and a commitment to meeting customer needs. Finally, by adopting a transparent and collaborative approach to data collection and analysis, Vivacity-Lab has the potential to enhance its value proposition and contribute to broader urban data initiatives aimed at improving the sustainability and livability of cities. Overall, Vivacity-Lab's innovative products, responsible practices, and customer commitment position the company as a key player in the smart city and transportation industry.
 
 # Lessons Learned from Vivacity-Lab's Business Model Canvas: 
--- Data collection and analysis that is open and collaborative can strengthen a company's operations and support citywide data projects which seek to make cities greener and more livable.
+- Data collection and analysis that is open and collaborative can strengthen a company's operations and support citywide data projects which seek to make cities greener and more livable.
 
--- Embracing responsible practices such as privacy, data protection, ethics, security and community-oriented approaches can demonstrate a business's commitment to sustainability and responsibility.
+- Embracing responsible practices such as privacy, data protection, ethics, security and community-oriented approaches can demonstrate a business's commitment to sustainability and responsibility.
 
--- Key resources, such as qualified personnel and unique algorithms, are essential to providing superior services to clients.
+- Key resources, such as qualified personnel and unique algorithms, are essential to providing superior services to clients.
 
--- To remain competitive and meet customer needs, partnerships and continual improvement are essential.
+- To remain competitive and meet customer needs, partnerships and continual improvement are essential.
 
 ## References
 Vivacity. (n.d.). Join us. Retrieved April 26, 2023, from https://vivacitylabs.com/about-us/join-us/
