@@ -1,5 +1,5 @@
 # Vivacity-Lab:Business-model
-The Vivacity Business Model repository is a collection of detailed information and analysis of the Smart Traffic Monitor product and its business model. It covers the product's value proposition, customer segments, revenue streams, key resources, activities, partnerships, cost structure, and sustainability/ethics/security/community considerations. 
+The Vivacity Business Model repository is a collection of detailed information and analysis of the Smart Traffic Monitor product and its business model. It covers the product's value proposition, customer segments and relationship, channels, revenue streams, key resources, activities, partnerships, cost structure, and sustainability/ethics/security/community considerations. 
 
 ![Vivacity Business Model Canvas](https://github.com/Gil-ADDA/Vivacity-Business-model/raw/11aef118c06ca8f25ed9ea58d7e721d9f0725f95/Vivacity%20Business%20Model%20Canvas.png)
 
